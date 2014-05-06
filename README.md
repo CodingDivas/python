@@ -1,4 +1,4 @@
 python
 ======
 
-Playground for leaning python
+Playground for learning python
