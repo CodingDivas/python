@@ -1,4 +1,4 @@
 python
 ======
 
-Playground for learning python
+Python projecs
