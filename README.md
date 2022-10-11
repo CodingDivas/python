@@ -1,4 +1,6 @@
 python
 ======
 
-Python projecs
+Python projects
+
+
